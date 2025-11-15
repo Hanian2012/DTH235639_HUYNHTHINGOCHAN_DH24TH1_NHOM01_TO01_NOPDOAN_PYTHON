@@ -14,7 +14,7 @@ Mục tiêu của dự án là số hóa và tối ưu hóa công tác quản l�
     * Lưu trữ, tra cứu chi tiết hợp đồng.
     * **Tạo và Xuất Hợp đồng tự động** ra file **Word** (`.docx`).
     * **Xuất Danh sách Hợp đồng** ra file **Excel** (`.xlsx`) để báo cáo.
-* **✨ Quản lý Tiền Lương:** Quản lý lương cơ bản, phụ cấp, và hỗ trợ xuất **Bảng Lương** ra file **Excel**.
+* **Quản lý Tiền Lương:** Quản lý lương cơ bản, phụ cấp, và hỗ trợ xuất **Bảng Lương** ra file **Excel**.
 * **Quản lý Nghỉ phép:** Ghi nhận và theo dõi các đơn xin nghỉ phép.
 * **Hệ thống Đăng nhập:** Đảm bảo tính bảo mật và phân quyền truy cập hệ thống.
 
